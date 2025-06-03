@@ -1,6 +1,6 @@
 <p align="left">
   <a href="https://bossgarage.eu" target="_blank" rel="noopener noreferrer">
-    <img src="Images/bossgarage-logo.png" alt="Boss Garage Logo" width="500" title="Visit the Boss Garage Store">
+    <img src="images/bossgarage-logo.png" alt="Boss Garage Logo" width="500" title="Visit the Boss Garage Store">
   </a>
 </p>
 
@@ -11,7 +11,7 @@
 This repository provides custom firmware for standalone ECUs that integrate with the **BossECU Brain module**.
 
 <p align="left">
-  <img src="Images/BossBrain_Render.jpg" alt="BossECU Brain Module" width="500" title="BossECU Brain Module Overview">
+  <img src="images/BossBrain_Render.jpg" alt="BossECU Brain Module" width="500" title="BossECU Brain Module Overview">
 </p>
 
 ---
