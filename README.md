@@ -33,7 +33,7 @@ Our custom firmware supports a wide range of BossECU and Honduino models. Ensure
 | [**BossECU BMW M1.7**](https://bossgarage.eu/en/products/bossecu-bmw-m1-7) | V1      |
 | [**BossECU BMW M3.1**](https://bossgarage.eu/en/products/bossecu-bmw-m3-1) | V1      |
 | [**BossECU Nissan S13X**](https://bossgarage.eu/en/products/boss-ecu-s13x) | V3      |
-| [**BossECU Nissan S15X**](https://bossgarage.eu/en/products/boss-ecu-s15x) | V1      |
+| [**BossECU Nissan S15X**](https://bossgarage.eu/en/products/boss-ecu-s15x) | V1 - V1.1 |
 | [**BossECU PSA NFX**](https://bossgarage.eu/en/products/bossecu-psa-nfx) | V1      |
 | [**BossECU PSA NFW**](https://bossgarage.eu/en/products/bossecu-psa-nfw) | V1      |
 | [**BossECU Suzuki Vitara 48p**](https://bossgarage.eu/en/products/bossecu-suzuki-vitara-48p) | V1      |
